@@ -1,7 +1,10 @@
-### Yo, What’s good? 👋 I’m Karunya Reddy
-
-- 👀 Into Cloud Computing ,cybersecurity, blockchain, and pretending I understand quantum physics.
-- 🌱 Currently grinding through Cloud Computing , making a restaurant app that might just make me a food critic, and fighting TypeScript like it owes me money.
-- 💞️ Down to collab on Cloud projects, open-source adventures, and anything that lets me break (and then fix) stuff for fun.
-- 📫 Hit me up: marrikarunyareddy@gmail.com |  https://linkedin.com/in/marrikarunyareddy
+###👋 I’m Karunya Reddy
+🚀 Cloud Enthusiast | Full-Stack Developer | Aspiring DevOps & Cloud Security Engineer
+Hi there! I’m currently pursuing my B.Tech in Computer Science with a specialization in Cybersecurity at KL University, Hyderabad (Graduating in April 2026). I’m passionate about leveraging cloud technologies to build scalable and secure solutions.
+🌩️ Cloud Platforms: AWS | Azure | GCP
+🛠️ Tech Stack: Full-Stack MERN | Java | Python | DevOps Tools | Docker
+📚 Learning Focus: AWS Solutions Architect | DevOps | Scripting | Networking
+🔍 Interests: Cloud Security | Blockchain | Automation | System Architecture
+💻 Work: JavaScript | Python | Cloud Architectures | Full-Stack Projects
+- 📫 : marrikarunyareddy@gmail.com |  https://linkedin.com/in/marrikarunyareddy
 - 😄 Pronouns: He/Him
