@@ -1,6 +1,6 @@
 ### 🚀 Marri Karunya Reddy | Cloud & Cybersecurity Enthusiast  
 
-👋 Hey there! I'm a **Final Year B.Tech CSE student at KL University Hyderabad**, passionate about **Cloud Computing** and **Cybersecurity**. I enjoy exploring cloud technologies, working on AWS projects, and continuously learning about security best practices.  
+👋 Hey there! I'm a **Final Year B.Tech CSE student, Hyderabad**, passionate about **Cloud Computing** and **Cybersecurity**. I enjoy exploring cloud technologies, working on AWS projects, and continuously learning about security best practices.  
 
 🔹 **AWS Certified Cloud Practitioner**  
 🔹 Currently building projects using AWS Free Tier    
